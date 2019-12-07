@@ -14,3 +14,8 @@ wishing to use ILASP for commercial purposes should contact Mark Law
 (mark@ilasp.com). For details and examples of how to use ILASP, please
 see the manual (which is available at
 [www.ilasp.com](http://www.ilasp.com)).
+
+# Bug Reports and Feature Requests
+
+Please submit all bug reports and feature requests as issues on this
+GitHub repository.
