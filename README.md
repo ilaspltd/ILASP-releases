@@ -1,7 +1,7 @@
 # ILASP
 
 ILASP (Inductive Learning of Answer Set Programs) is a new logic-based
-learning system capable of learning normal rules, choice rules,
+learning system capable of learning normal rules, disjunctive rules, choice rules,
 constraints and weak constraints in ASP.
 
 # Usage
